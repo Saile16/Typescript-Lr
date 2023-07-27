@@ -9,6 +9,7 @@
     age: 23,
     powers: ["Super Velocidad", "Viajar en el Tiempo"],
   };
+  console.log(flash);
 
   let superman: {
     name: string;
